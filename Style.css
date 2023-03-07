@@ -1,0 +1,102 @@
+#feedback{
+    background-image: url("images/banner.png");
+    padding: 7% 10%;
+}
+.carousel-item{
+   padding: 7% 20%; 
+   text-align: center;
+   font-style: italic;
+}
+.carousel-item button{
+    border-radius: 10px;
+    text-shadow: 2% 2% 3% rgb(110, 92, 92);
+}
+.carousel-indicators{
+    bottom: -20px;
+}
+header ul li a{
+   
+    text-align: center;
+}
+header ul li a:hover{
+    border: solid 3px brown;
+    border-radius: 10px;
+    color:aqua !important;
+    background-color: black;
+}
+#Momentum{
+    padding: 7% 10%; 
+}
+#Momentum img{
+    height: 250px;
+    transition: 0.4s;
+}
+#Momentum img:hover{
+    transform: scale(1.1);
+}
+.details-head{
+    font-size: 1.5rem !important;
+}
+#package{
+    padding: 7% 10%;
+    background-color: bisque;
+}
+#package .card-tittle{
+    font-size: 1.5rem !important;
+}
+#package .card-text{
+    font-size: 1.3rem !important;
+}
+.card{
+    transition: 0.4s;
+}
+.card:hover{
+    box-shadow: 5px 5px 5px mediumpurple;
+    transform: scale(1.03);
+    background-color: rgb(240, 156, 156);
+}
+.buttonal{
+    border-radius: 9px;
+}
+#monishi{
+    padding: 7% 10%;
+    background-color: bisque; 
+}
+.handsome{
+    background-color: rgb(235, 235, 203) !important;
+   
+}
+#sulthan{
+    padding: 7% 10%;
+    background-color: bisque; 
+}
+.accordion{
+    margin-top: 100px;
+}
+.pple{
+    height: 220px;
+    
+    border-radius: 20px;
+    transition: 0.4s;
+}
+.pple:hover{
+    transform: scale(1.1);
+}
+#foot{
+    padding: 7% 10%;
+    background-color: rgb(12, 12, 12); 
+}
+.ho{
+    margin-top: 80px;
+}
+#foot button:hover{
+    box-shadow: 2px 2px 2px white;
+}
+#sulthan{
+    align-items: center;
+}
+.ddh{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
